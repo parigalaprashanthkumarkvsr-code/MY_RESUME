@@ -1,7 +1,7 @@
 # PARIGALA PRASHANTH KUMAR
 ## AI ENGINEER (FRESHER)
 
-Kurnool, Andhra Pradesh, India | +91 9705964661 | parigalaprashanthkumarkvsr@gmail.com
+Kurnool, Andhra Pradesh, India | +91 9705964661 | parigalaprashanthkumarkvsr@gmail.com | [GitHub](https://github.com/parigalaprashanthkumarkvsr-code)
 
 ---
 
