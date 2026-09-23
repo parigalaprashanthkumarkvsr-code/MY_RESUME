@@ -1,0 +1,8 @@
+# OS / editor junk - resume PDF itself IS tracked
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.tmp
+*.log
